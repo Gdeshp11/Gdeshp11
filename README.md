@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Gandhar
 - 👀 I’m interested in developing software for embedded systems
 - 🌱 I’m currently doing masters in Computer Engineering
+- 🐦 Play **[Skyward Pip](https://gdeshp11.github.io/Gdeshp11/)**, a little flappy-bird style game (source in [`skyward-pip/`](skyward-pip/))
 - 📫 reach me @ [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)]( https://www.linkedin.com/in/gandhar-deshpande/)
 
 
